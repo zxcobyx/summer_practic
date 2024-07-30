@@ -1,0 +1,9 @@
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/summer_practic.dir
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/edit_cache.dir
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/list_install_components.dir
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/install.dir
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/install/local.dir
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/install/strip.dir
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/summer_practic_autogen_timestamp_deps.dir
+D:/project/summer_practic/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/summer_practic_autogen.dir
